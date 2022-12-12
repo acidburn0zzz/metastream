@@ -96,7 +96,7 @@
     "libsodium-wrappers": "^0.7.3",
     "lodash-es": "^4.17.14",
     "marked": "^0.6.2",
-    "qs": "6.5.1",
+    "qs": "6.5.3",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-hot-loader": "^3.1.1",
